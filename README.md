@@ -11,6 +11,7 @@ UNO Test only
 - Composer
 - MySQL or another compatible database
 - Laravel 11.x (or appropriate version)
+- Mail service like mailtrap.io
 
 ## Installation
 
