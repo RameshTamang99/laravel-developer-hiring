@@ -30,5 +30,5 @@ After running the migrations, seed the database to create default admin and user
 php artisan db:seed
 
 This will create:
-- Admin user `admin@admin.com` and a default password.
-- Regular user `user@user.com` and a default password.
+- Admin user `admin@admin.com` with same password .
+- Regular user `user@user.com` with same password.
